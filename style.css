@@ -1,0 +1,10 @@
+#clicker-button {
+    padding: 10px 20px;
+    font-size: 2em;
+    margin: 20px;
+    background: url('https://e.radikal.host/2024/05/02/82590444_2001_1_grivna.png') no-repeat center center;
+    border: none;
+    width: 300px;  /* Увеличьте ширину кнопки */
+    height: 300px; /* Увеличьте высоту кнопки */
+    background-size: cover; /* Это убедится, что изображение будет масштабировано, чтобы заполнить кнопку */
+}
